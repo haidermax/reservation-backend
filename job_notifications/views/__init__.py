@@ -1,0 +1,1 @@
+from .job_notification_view import JobNotificationViewSet
